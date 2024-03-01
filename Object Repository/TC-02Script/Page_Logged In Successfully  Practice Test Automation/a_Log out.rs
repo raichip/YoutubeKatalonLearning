@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log out</name>
+   <tag></tag>
+   <elementGuidId>0c4ddeb6-5e05-4830-a14f-5dca336c9983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-block-button__link.has-text-color.has-background.has-very-dark-gray-background-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loop-container']/div/article/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05a98845-e63b-4962-99e8-e0b5f2802a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-button__link has-text-color has-background has-very-dark-gray-background-color</value>
+      <webElementGuid>d6d0e248-b05a-4807-a5e6-190ab8594d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practicetestautomation.com/practice-test-login/</value>
+      <webElementGuid>009d9d0d-8c63-46c2-85b0-f16b8a3aa1ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+      <webElementGuid>89135b0c-7bc9-447a-88b8-6a8d5752d1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loop-container&quot;)/div[@class=&quot;post-257 page type-page status-publish hentry entry&quot;]/article[1]/div[@class=&quot;post-content&quot;]/div[@class=&quot;wp-block-group&quot;]/div[@class=&quot;wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow&quot;]/div[@class=&quot;wp-block-button aligncenter is-style-fill&quot;]/a[@class=&quot;wp-block-button__link has-text-color has-background has-very-dark-gray-background-color&quot;]</value>
+      <webElementGuid>b88c7e79-43c8-42e3-94d3-27be1a031886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loop-container']/div/article/div[2]/div/div/div/a</value>
+      <webElementGuid>a67c610e-b2ce-4e8f-9044-e07d8b05859b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log out')]</value>
+      <webElementGuid>25f9e249-d4dd-4a2e-ab0e-1812d7ea107e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations student. You successfully logged in!'])[1]/following::a[1]</value>
+      <webElementGuid>02b02f77-9017-456c-8d5a-5cc484bc5707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged In Successfully'])[1]/following::a[1]</value>
+      <webElementGuid>5bcc6c0e-2864-4164-bf8e-57fb0b9bd71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Test Automation.'])[1]/preceding::a[1]</value>
+      <webElementGuid>d66330b7-bbf9-4954-bd55-d24386a9b9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+      <webElementGuid>ea4b3cd0-a634-4183-823e-5b0bca03199c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://practicetestautomation.com/practice-test-login/')]</value>
+      <webElementGuid>a1ee7726-69e3-4de1-b639-ad912ffd8da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>feae67c2-7c0e-4233-818b-5afa857af9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practicetestautomation.com/practice-test-login/' and (text() = 'Log out' or . = 'Log out')]</value>
+      <webElementGuid>66d2032e-2e20-434c-8462-32d7ad8676f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
